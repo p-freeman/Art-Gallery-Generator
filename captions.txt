@@ -1,0 +1,2 @@
+filename1.jpg	Caption for Image 1<br><br>Here is some stub description that you can replace. You could even add some a [link to github.com](https://github.com/) if you so desire. You can also use "Quotation marks" here.
+filename2.jpg	Caption for Image 2<br><br>Here comes some text of yours
