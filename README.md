@@ -12,12 +12,19 @@ This script generates a static art gallery webpage with a lightbox feature. It a
 To use the script, ensure the following folder structure:
 
 project_folder/
+
 │
+
 ├── input/
+
 │ ├── images/ # Folder containing images
+
 │ ├── captions.txt # Text file containing image captions
+
 │ └── intro.md # Markdown file with introductory text
+
 │
+
 └── output/ # Output folder for the generated gallery
 
 
